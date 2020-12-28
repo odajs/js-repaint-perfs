@@ -1,5 +1,6 @@
 var List =[
 		{ type: 'naive', id: 'aurelia', label: 'DBMON Aurelia', url: './aurelia' },
+		{ type: 'naive', id: 'odajs', label: 'DBMON ODAjs', url: './odajs' },
 		{ type: 'optimized', id: 'aurelia', label: 'DBMON Aurelia', url: './aurelia-optimized' },
 		{ type: 'naive', id: 'cycle', label: 'DBMON Cycle.js', url: './cycle'},
 		{ type: 'naive', id: 'ember', url: './ember', label: 'DBMON Ember' },
