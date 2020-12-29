@@ -4,7 +4,7 @@
     var url = this.props.lib.url;
     if 
     return Elem.el('div', { className: 'child ' + this.props.lib.type, onClick: function() { window.open(url, '_blank'); } }, [
-      Elem.el('a', { href: url, target: '_blank' },  this.props.lib.show_label ? this.props.lib.label : '')
+      Elem.el('a', { href: url, target: '_blank' },  this.props.lib.hide_label ? '' : this.props.lib.label)
     ]);
   }
 
