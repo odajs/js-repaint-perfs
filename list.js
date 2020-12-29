@@ -47,7 +47,7 @@ var List = [
 		{ type: 'optimized', id: 'preact', url: './preact', label: 'Preact' },
 		{ type: 'naive', id: 'preact-functional', url: './preact/functional.html', label: 'Preact (Functional)' },
 		{ type: 'optimized angular', id: 'angular', url: './angular/opt.html', label: 'Angular', hide_label: true },
-		{ type: 'optimized angular-light', id: 'angular-light', url: './angular-light/opt.html', label: 'Angular-light' },
+		{ type: 'optimized angular-light', id: 'angular-light', url: './angular-light/opt.html', label: 'Angular-light',  hide_label: true },
 		{ type: 'optimized', id: 'angular2', url: './angular2/opt.html', label: 'Angular 2.0 Alpha' },
 		{ type: 'optimized', id: 'angular-track-by', url: './angular-track-by', label: 'Angular (track by $index)' },
 		{ type: 'optimized', id: 'elem', url: './elm/opt.html', label: 'elm' },
