@@ -1,6 +1,6 @@
-// import '../lib/oda.js'
+import '../lib/oda.js'
 
-import 'https://odajs.org/oda.js'
+// import 'https://odajs.org/oda.js'
 
 ODA({
     is: 'oda-pref',
