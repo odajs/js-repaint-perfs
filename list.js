@@ -27,7 +27,7 @@ var List = [
 		{ type: 'naive', id: 'react-canvas', url: './react-canvas', label: 'react-canvas' },
 		{ type: 'naive', id: 'sammy', url: './sammy', label: 'sammy' },
 		// { type: 'naive vue', id: 'vue', url: './vue', label: 'vue' },
-		{ type: 'naive vue', id: 'vue2', url: './vue2', label: 'vue.js' },
+		{ type: 'naive vue', id: 'vue2', url: './vue2', label: 'vue' },
 		{ type: 'naive backbone', id: 'backbone', url: './backbone', label: 'Backbone' },
 		{ type: 'naive backbone-marionette', id: 'backbone-marionette', url: './marionette', label: 'Backbone Marionette' },
 		{ type: 'optimized backbone-marionette', id: 'backbone-marionette', url: './marionette/opt.html', label: 'Backbone Marionette' },
