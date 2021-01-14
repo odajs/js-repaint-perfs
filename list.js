@@ -6,7 +6,7 @@ var List = [
 		{ type: 'naive ember', id: 'ember', url: './ember' , label: 'Ember' },
 		{ type: 'naive angular', id: 'angular', url: './angular', label: 'Angular', hide_label: true },
 		{ type: 'naive angular-light', id: 'angular-light', url: './angular-light', label: 'Angular-light', hide_label: true },
-		{ type: 'naive', id: 'angular21', url: './angular2', label: 'Angular 2.0 Alpha' },
+		{ type: 'naive', id: 'angular2', url: './angular2', label: 'Angular 2.0 Alpha' },
 		{ type: 'naive react', id: 'react', url: './react', label: 'React' },
 		{ type: 'naive', id: 'magjs', url: './magjs', label: 'MagJS' },
 		{ type: 'naive', id: 'mol', url: './mol/index.html', label: '$mol'},
