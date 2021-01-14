@@ -6,7 +6,7 @@ var List = [
 		{ type: 'naive ember', id: 'ember', url: './ember' , label: 'Ember' },
 		{ type: 'naive angular', id: 'angular', url: './angular', label: 'Angular', hide_label: true },
 		{ type: 'naive angular-light', id: 'angular-light', url: './angular-light', label: 'Angular-light', hide_label: true },
-		{ type: 'naive', id: 'angular2', url: './angular2', label: 'Angular 2.0 Alpha' },
+		{ type: 'naive', id: 'angular21', url: './angular2', label: 'Angular 2.0 Alpha' },
 		{ type: 'naive react', id: 'react', url: './react', label: 'React' },
 		{ type: 'naive', id: 'magjs', url: './magjs', label: 'MagJS' },
 		{ type: 'naive', id: 'mol', url: './mol/index.html', label: '$mol'},
@@ -46,13 +46,8 @@ var List = [
 		{ type: 'optimized react', id: 'react', url: './react/opt.html', label: 'React' },
 		{ type: 'optimized', id: 'preact', url: './preact', label: 'Preact' },
 		{ type: 'naive', id: 'preact-functional', url: './preact/functional.html', label: 'Preact (Functional)' },
-<<<<<<< HEAD
-		{ type: 'optimized angular', id: 'angular', url: './angular/opt.html', label: 'Angular' },
-		{ type: 'optimized angular-light', id: 'angular-light', url: './angular-light/opt.html', label: 'Angular-light' },
-=======
 		{ type: 'optimized angular', id: 'angular', url: './angular/opt.html', label: 'Angular', hide_label: true },
 		{ type: 'optimized angular-light', id: 'angular-light', url: './angular-light/opt.html', label: 'Angular-light',  hide_label: true },
->>>>>>> 6cc59f6cbb84f1d8c825d5a6f5d5f72054990047
 		{ type: 'optimized', id: 'angular2', url: './angular2/opt.html', label: 'Angular 2.0 Alpha' },
 		{ type: 'optimized', id: 'angular-track-by', url: './angular-track-by', label: 'Angular (track by $index)' },
 		{ type: 'optimized', id: 'elem', url: './elm/opt.html', label: 'elm' },
